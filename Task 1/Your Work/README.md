@@ -266,7 +266,7 @@ The Movie Ticket Management System is a standalone web application that can inte
 
 > * **CONTEXT DIAGRAM**
 
-<img src="images/context-diagram.png" alt="Context Diagram">
+<img src="imageshttps://github.com/SumaiyaRose/CSE59-A-F-SE_DP-LAB/blob/main/Task%201/Your%20Work/images/mermaid-diagram.png/" alt="Context Diagram">
 
 # 5. System Evolution
 
