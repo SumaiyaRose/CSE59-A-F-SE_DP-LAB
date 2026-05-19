@@ -268,38 +268,6 @@ The Movie Ticket Management System is a standalone web application that can inte
 
 <img src="images/context-diagram.png" alt="Context Diagram">
 
----
-
-> * **ACTIVITY DIAGRAM**
-
-<img src="images/activity-diagram.png" alt="Activity Diagram">
-
----
-
-> * **USE CASE DIAGRAM**
-
-<img src="images/usecase-diagram.png" alt="Use Case Diagram">
-
----
-
-> * **SEQUENCE DIAGRAM**
-
-<img src="images/sequence-diagram.png" alt="Sequence Diagram">
-
----
-
-> * **ENTITY-RELATIONSHIP DIAGRAM**
-
-<img src="images/er-diagram.png" alt="ER Diagram">
-
----
-
-> * **STATE DIAGRAM**
-
-<img src="images/state-diagram.png" alt="State Diagram">
-
----
-
 # 5. System Evolution
 
 ## Assumptions
